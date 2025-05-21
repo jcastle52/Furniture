@@ -1,0 +1,40 @@
+body {
+  background-color: aqua;
+}
+
+h1 {
+  background-color: blue;
+}
+
+p {
+  background-color: red;
+  margin: 20px;
+  padding: 70px;
+}
+
+h2 {
+  color: aliceblue;
+}
+
+.price {
+  background-color: green;
+  font-family: sans-serif;
+  font-size: large;
+  color: rgb(255, 255, 255);
+}
+
+article {
+  background-color: navy;
+  border-radius: 30px;
+  padding: 20px;
+  margin: 30px;
+}
+
+button {
+  background-color: orange;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: blue;
+}
